@@ -1,6 +1,6 @@
 <h3>README.me</h3>
 
-<h5>This is a simple poll and question voting site made following the django documentation.</h5>
+<h5>This is a simple poll and question voting site made following the django documentation and tutorial found on the offical django site.</h5>
 
 <p>This is using sqlLite as the database system although postgreSQL is the usual go to for Django applicaitons</p>
 
